@@ -4,137 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "737a5ee48b621bc3",
+        "id": "2cd2bdde2822ffb2",
         "type": "tabs",
         "children": [
           {
-            "id": "d27a82f908b4236b",
+            "id": "76fe308b3ee868d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/6. Building MCP/2. Building an MCP Server.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/17. Prompt and Model Versioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Building an MCP Server"
+              "title": "17. Prompt and Model Versioning"
             }
           },
           {
-            "id": "edcefb3a2bf9425e",
+            "id": "31bf26f9bbb3619d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/6. Building MCP/3. Building an MCP Client.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/18. CI CD for Agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Building an MCP Client"
+              "title": "18. CI CD for Agents"
             }
           },
           {
-            "id": "35e573a90ae62a2f",
+            "id": "3617db343f8c5939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/6. Building MCP/4. Testing with MCP Inspector.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/19. Agent Deployment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Testing with MCP Inspector"
+              "title": "19. Agent Deployment"
             }
           },
           {
-            "id": "735e63f40578878b",
+            "id": "75e2d650cab4d1f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/4. MCP Primitives/1. MCP Tools.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/20. Deployment Strategies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. MCP Tools"
+              "title": "20. Deployment Strategies"
             }
           },
           {
-            "id": "07c5c8927847456d",
+            "id": "6737aae7fab84192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/4. MCP Primitives/2. MCP Resources.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/21. Scaling AI Agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. MCP Resources"
+              "title": "21. Scaling AI Agents"
             }
           },
           {
-            "id": "69c6e1f1487f8f01",
+            "id": "45fce8cbe8624401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/4. MCP Primitives/3. MCP Prompts.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/22. Multi-Tenant Agent Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. MCP Prompts"
+              "title": "22. Multi-Tenant Agent Systems"
             }
           },
           {
-            "id": "78477c5beda03f85",
+            "id": "63790c28bba964c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/4. MCP Primitives/4. MCP Sampling.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/23. Enterprise Agent Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. MCP Sampling"
+              "title": "23. Enterprise Agent Architecture"
             }
           },
           {
-            "id": "8e6c64fe3f81c3d9",
+            "id": "5b5bab76f7048cb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/6. Building MCP/5. MCP Roots.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/24. Production Security and Compliance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. MCP Roots"
+              "title": "24. Production Security and Compliance"
             }
           },
           {
-            "id": "2c9c693c44af9e5a",
+            "id": "2b9270d5c4861c83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 12 - MCP/6. Building MCP/6. MCP Elicitation.md",
+                "file": "agentic ai/Part 13 - Production Agent Systems/25. Incident Response and Debugging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. MCP Elicitation"
+              "title": "25. Incident Response and Debugging"
+            }
+          },
+          {
+            "id": "de64fec437f8a2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agentic ai/Part 13 - Production Agent Systems/14. Reliability and Fault Tolerance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Reliability and Fault Tolerance"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -300,32 +314,32 @@
   },
   "active": "a525676b123269ac",
   "lastOpenFiles": [
-    "agentic ai/Part 12 - MCP/6. Building MCP/5. MCP Roots.md",
-    "agentic ai/Part 12 - MCP/6. Building MCP/6. MCP Elicitation.md",
-    "agentic ai/Part 12 - MCP/4. MCP Primitives/4. MCP Sampling.md",
-    "agentic ai/Part 12 - MCP/4. MCP Primitives/3. MCP Prompts.md",
-    "agentic ai/Part 12 - MCP/4. MCP Primitives/2. MCP Resources.md",
-    "agentic ai/Part 12 - MCP/4. MCP Primitives/1. MCP Tools.md",
-    "agentic ai/Part 12 - MCP/6. Building MCP/4. Testing with MCP Inspector.md",
-    "agentic ai/Part 12 - MCP/6. Building MCP/3. Building an MCP Client.md",
-    "agentic ai/Part 12 - MCP/6. Building MCP/2. Building an MCP Server.md",
-    "agentic ai/Part 12 - MCP/6. Building MCP/1. MCP SDKs (Python & TypeScript).md",
-    "agentic ai/Part 12 - MCP/5. Security/2. Local vs Remote MCP Servers.md",
-    "agentic ai/Part 12 - MCP/5. Security/1. MCP Authentication & Authorization.md",
-    "agentic ai/Part 12 - MCP/3. Communication/4. MCP Logging.md",
-    "agentic ai/Part 12 - MCP/3. Communication/3. MCP Notifications & Progress Tracking.md",
-    "agentic ai/Part 12 - MCP/3. Communication/1. MCP Messages & JSON-RPC.md",
-    "agentic ai/Part 12 - MCP/3. Communication/2. MCP Transports.md",
-    "agentic ai/Part 12 - MCP/2. Core Components/3. MCP Servers.md",
-    "agentic ai/Part 12 - MCP/2. Core Components/4. MCP Connection Lifecycle.md",
-    "agentic ai/Part 12 - MCP/2. Core Components/5. MCP Capability Negotiation.md",
-    "agentic ai/Part 12 - MCP/2. Core Components/1. MCP Hosts.md",
-    "agentic ai/Part 12 - MCP/2. Core Components/2. MCP Clients.md",
-    "agentic ai/Part 12 - MCP/1. Foundation/3. MCP Architecture.md",
-    "agentic ai/Part 12 - MCP/1. Foundation/1. What Is MCP.md",
-    "agentic ai/Part 12 - MCP/1. Foundation/2. Why MCP Is Needed.md",
-    "agentic ai/Part 8 - Agent Safety/63 - Sandboxing.md",
-    "agentic ai/Part 8 - Agent Safety/62 - Guardrails.md",
+    "agentic ai/Part 13 - Production Agent Systems/10. Logging, Metrics, and Tracing.md",
+    "agentic ai/Part 13 - Production Agent Systems/9. Agent Observability.md",
+    "agentic ai/Part 13 - Production Agent Systems/26. Production Agent Failure Patterns.md",
+    "agentic ai/Part 13 - Production Agent Systems/25. Incident Response and Debugging.md",
+    "agentic ai/Part 13 - Production Agent Systems/24. Production Security and Compliance.md",
+    "agentic ai/Part 13 - Production Agent Systems/23. Enterprise Agent Architecture.md",
+    "agentic ai/Part 13 - Production Agent Systems/22. Multi-Tenant Agent Systems.md",
+    "agentic ai/Part 13 - Production Agent Systems/21. Scaling AI Agents.md",
+    "agentic ai/Part 13 - Production Agent Systems/20. Deployment Strategies.md",
+    "agentic ai/Part 13 - Production Agent Systems/19. Agent Deployment.md",
+    "agentic ai/Part 13 - Production Agent Systems/18. CI CD for Agents.md",
+    "agentic ai/Part 13 - Production Agent Systems/17. Prompt and Model Versioning.md",
+    "agentic ai/Part 13 - Production Agent Systems/16. Agent Versioning.md",
+    "agentic ai/Part 13 - Production Agent Systems/15. Idempotency and Retry Strategies.md",
+    "agentic ai/Part 13 - Production Agent Systems/14. Reliability and Fault Tolerance.md",
+    "agentic ai/Part 13 - Production Agent Systems/13. Rate Limits and Backpressure.md",
+    "agentic ai/Part 13 - Production Agent Systems/12. Cost and Token Optimization.md",
+    "agentic ai/Part 13 - Production Agent Systems/11. Agent Monitoring and Alerting.md",
+    "agentic ai/Part 13 - Production Agent Systems/8. Load and Stress Testing.md",
+    "agentic ai/Part 13 - Production Agent Systems/7. Agent Evaluation.md",
+    "agentic ai/Part 13 - Production Agent Systems/6. Agent Testing.md",
+    "agentic ai/Part 13 - Production Agent Systems/5. Agent Configuration Management.md",
+    "agentic ai/Part 13 - Production Agent Systems/4. Background Jobs and Task Queues.md",
+    "agentic ai/Part 13 - Production Agent Systems/3. Asynchronous Execution.md",
+    "agentic ai/Part 13 - Production Agent Systems/1. Production Readiness for AI Agents.md",
+    "agentic ai/Part 13 - Production Agent Systems/2. Streaming Execution.md",
     "agentic ai/Part 12 - MCP/6. Building MCP",
     "agentic ai/Part 12 - MCP/5. Security",
     "agentic ai/Part 12 - MCP/4. MCP Primitives",
