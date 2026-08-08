@@ -4,151 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd2bdde2822ffb2",
+        "id": "fc1ce45e4fe079ac",
         "type": "tabs",
         "children": [
           {
-            "id": "76fe308b3ee868d0",
+            "id": "984d0aa52fcaffbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/17. Prompt and Model Versioning.md",
+                "file": "agentic ai/Part 15 - Enterprise Architecture/1. Load Balancing Across Model Providers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Prompt and Model Versioning"
+              "title": "1. Load Balancing Across Model Providers"
             }
           },
           {
-            "id": "31bf26f9bbb3619d",
+            "id": "0075b6a816d80ba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/18. CI CD for Agents.md",
+                "file": "agentic ai/Part 15 - Enterprise Architecture/2. Multi-Model Orchestration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. CI CD for Agents"
-            }
-          },
-          {
-            "id": "3617db343f8c5939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/19. Agent Deployment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19. Agent Deployment"
-            }
-          },
-          {
-            "id": "75e2d650cab4d1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/20. Deployment Strategies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20. Deployment Strategies"
-            }
-          },
-          {
-            "id": "6737aae7fab84192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/21. Scaling AI Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. Scaling AI Agents"
-            }
-          },
-          {
-            "id": "45fce8cbe8624401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/22. Multi-Tenant Agent Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22. Multi-Tenant Agent Systems"
-            }
-          },
-          {
-            "id": "63790c28bba964c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/23. Enterprise Agent Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23. Enterprise Agent Architecture"
-            }
-          },
-          {
-            "id": "5b5bab76f7048cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/24. Production Security and Compliance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24. Production Security and Compliance"
-            }
-          },
-          {
-            "id": "2b9270d5c4861c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/25. Incident Response and Debugging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25. Incident Response and Debugging"
-            }
-          },
-          {
-            "id": "de64fec437f8a2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agentic ai/Part 13 - Production Agent Systems/14. Reliability and Fault Tolerance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. Reliability and Fault Tolerance"
+              "title": "2. Multi-Model Orchestration"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,6 +202,21 @@
   },
   "active": "a525676b123269ac",
   "lastOpenFiles": [
+    "agentic ai/Part 15 - Enterprise Architecture/1. Load Balancing Across Model Providers.md",
+    "agentic ai/Part 15 - Enterprise Architecture/2. Multi-Model Orchestration.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/8. Speculative Decoding.md",
+    "agentic ai/Part 15 - Enterprise Architecture",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/10. Distillation.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/9. Quantization.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/3. Model Gateway.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/7. Batch Inference.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/6. KV Cache (Key-Value Cache).md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/5. Semantic Caching.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/4. Prompt Caching.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/2. Model Routing.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering/1. Choosing the Right Model.md",
+    "agentic ai/Part 13 - Production Agent Systems/14. Reliability and Fault Tolerance.md",
+    "agentic ai/Part 14 - Enterprise LLM Engineering",
     "agentic ai/Part 13 - Production Agent Systems/10. Logging, Metrics, and Tracing.md",
     "agentic ai/Part 13 - Production Agent Systems/9. Agent Observability.md",
     "agentic ai/Part 13 - Production Agent Systems/26. Production Agent Failure Patterns.md",
@@ -327,19 +230,6 @@
     "agentic ai/Part 13 - Production Agent Systems/18. CI CD for Agents.md",
     "agentic ai/Part 13 - Production Agent Systems/17. Prompt and Model Versioning.md",
     "agentic ai/Part 13 - Production Agent Systems/16. Agent Versioning.md",
-    "agentic ai/Part 13 - Production Agent Systems/15. Idempotency and Retry Strategies.md",
-    "agentic ai/Part 13 - Production Agent Systems/14. Reliability and Fault Tolerance.md",
-    "agentic ai/Part 13 - Production Agent Systems/13. Rate Limits and Backpressure.md",
-    "agentic ai/Part 13 - Production Agent Systems/12. Cost and Token Optimization.md",
-    "agentic ai/Part 13 - Production Agent Systems/11. Agent Monitoring and Alerting.md",
-    "agentic ai/Part 13 - Production Agent Systems/8. Load and Stress Testing.md",
-    "agentic ai/Part 13 - Production Agent Systems/7. Agent Evaluation.md",
-    "agentic ai/Part 13 - Production Agent Systems/6. Agent Testing.md",
-    "agentic ai/Part 13 - Production Agent Systems/5. Agent Configuration Management.md",
-    "agentic ai/Part 13 - Production Agent Systems/4. Background Jobs and Task Queues.md",
-    "agentic ai/Part 13 - Production Agent Systems/3. Asynchronous Execution.md",
-    "agentic ai/Part 13 - Production Agent Systems/1. Production Readiness for AI Agents.md",
-    "agentic ai/Part 13 - Production Agent Systems/2. Streaming Execution.md",
     "agentic ai/Part 12 - MCP/6. Building MCP",
     "agentic ai/Part 12 - MCP/5. Security",
     "agentic ai/Part 12 - MCP/4. MCP Primitives",
@@ -347,8 +237,6 @@
     "agentic ai/Part 12 - MCP/2. Core Components",
     "agentic ai/Part 12 - MCP/1. Foundation",
     "agentic ai/Part 9 - Security",
-    "agentic ai/Part 8 - Agent Safety",
-    "agentic ai/Part 7 - Context & State Management",
-    "agentic ai/Part 6 - Agent-Communication"
+    "agentic ai/Part 8 - Agent Safety"
   ]
 }
